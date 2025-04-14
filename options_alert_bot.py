@@ -171,4 +171,3 @@ while True:
         print("Signal cache reset.")
 
     time.sleep(300)  # 5-minute interval
-# Placeholder: Insert full options_alert_bot.py code here (copied from canvas)
