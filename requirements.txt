@@ -1,0 +1,9 @@
+yfinance
+pandas
+pandas-ta
+numpy
+python-telegram-bot
+textblob
+snscrape
+beautifulsoup4
+requests
