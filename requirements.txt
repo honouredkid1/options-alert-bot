@@ -2,7 +2,7 @@ numpy==1.26.4
 pandas==1.5.3
 pandas-ta==0.3.14b0
 yfinance
-python-telegram-bot
+python-telegram-bot==13.15
 textblob
 snscrape
 beautifulsoup4
